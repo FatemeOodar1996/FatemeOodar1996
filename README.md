@@ -25,4 +25,8 @@ I believe in the power of collaboration and giving back to the community. You ca
 
 🌟 Let's build something amazing together! Feel free to reach out for frontend collaborations, UI/UX discussions, or just to geek out about tech. Happy coding! 🚀
 
+<div align="center">
+  <img src="./images.jpg" alt="cool Picture" />
+</div>
+
 ![cool Picture](./images.jpg)
