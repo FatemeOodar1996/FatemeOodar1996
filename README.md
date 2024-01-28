@@ -1,6 +1,6 @@
 🚀 Frontend Developer | Next.js & React.js 🌐
 
-# Hello there! 👩‍💻 My name is Fateme, and you can also call me Solale. I'm a passionate frontend developer dedicated to crafting interactive and performant web applications using Next.js and React.js. I thrive on turning innovative ideas into scalable and elegant user interfaces.
+Hello there! 👩‍💻 My name is Fateme, and you can also call me Solale. I'm a passionate frontend developer dedicated to crafting interactive and performant web applications using Next.js and React.js. I thrive on turning innovative ideas into scalable and elegant user interfaces.
 🚀 Currently, I'm actively working on a Progressive Web App (PWA) project, harnessing the power of Next.js and React.js to deliver a seamless and engaging user experience.
 
 Let's build something amazing together! Feel free to reach out for collaborations, discussions, or just to geek out about tech. Happy coding! 🚀
