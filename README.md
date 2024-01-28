@@ -28,5 +28,3 @@ I believe in the power of collaboration and giving back to the community. You ca
 <div align="center">
   <img src="./images.jpg" alt="cool Picture" />
 </div>
-
-![cool Picture](./images.jpg)
