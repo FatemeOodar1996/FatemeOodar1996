@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Greetings, fellow developers</h1>
+  <h3>Greetings, fellow developers</h3>
 </div>
 
 Hello there! 👩‍💻 My name is Fateme, and you can also call me Solale. I'm a passionate frontend developer dedicated to crafting interactive and performant web applications using Next.js and React.js. I thrive on turning innovative ideas into scalable and elegant user interfaces.
