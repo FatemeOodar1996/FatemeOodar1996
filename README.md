@@ -24,3 +24,5 @@ I believe in the power of collaboration and giving back to the community. You ca
 - Portfolio: https://fatemeoodar.iran.liara.run/
 
 🌟 Let's build something amazing together! Feel free to reach out for frontend collaborations, UI/UX discussions, or just to geek out about tech. Happy coding! 🚀
+
+![My Profile Picture](./images.jpg)
