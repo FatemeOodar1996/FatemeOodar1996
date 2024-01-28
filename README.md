@@ -6,6 +6,7 @@ Hello there! 👩‍💻 My name is Fateme, and you can also call me Solale., a 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=flat)  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white&style=flat)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  ![Atomic Design](https://img.shields.io/badge/-Atomic_Design-E10098?style=flat)  ![Mantine](https://img.shields.io/badge/-Mantine-0F86C0?logo=mantine&logoColor=white&style=flat)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 🛠️ Tech Stack:
 - Frontend: React.js, Next.js
 - UI/UX: Responsive design, CSS-in-JS
